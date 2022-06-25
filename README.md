@@ -4,7 +4,7 @@ Apart of my Introduction to HTML and CSS course, CWB 110, I created the fictiona
 
 # What I Learned
 
-- How to create html files
+- How to create HTML/CSS files
 - Basic HTML and CSS syntax
 - Implementing CSS with HTML
 - Adding PHP Scripts
